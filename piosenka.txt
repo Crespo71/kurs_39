@@ -6,12 +6,12 @@ refren 1.txt
 
 zwrotka 3.txt
 
-refren 2.txt
+refren 1.txt
 
 zwrotka 4.txt
 
-refren 3.txt
+refren 1.txt
 
-refen 4.txt
+refren 1.txt
 
 refren 5.txt
