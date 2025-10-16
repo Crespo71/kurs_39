@@ -1,0 +1,12 @@
+ Tańcz głupia, tańcz, swoim życiem się baw
+ Wprost na spotkanie ognia leć!
+ Tańcz, głupia, tańcz, wielki bal sobie spraw
+-
++To wszystko, co dziś możesz mieć!
+\ No newline at end of file
+
+commit b30fd3a53d3ddf085c42cb38d24ad6639ab20253
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:35:52 2025 +0200
+
+    usunieta ostatnia linia refrenu

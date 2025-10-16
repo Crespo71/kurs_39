@@ -1,0 +1,19 @@
+user@DESKTOP-FEPSNIA MINGW64 ~/trol (master)
+$ git log -p "zwrotka 3.txt"
+commit 85a12d7c836145128e35a9d3738741fe87cd5cc5
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:22:35 2025 +0200
+
+    zwrotka 3
+
+diff --git a/zwrotka 3.txt b/zwrotka 3.txt
+new file mode 100644
+index 0000000..66735bf
+--- /dev/null
++++ b/zwrotka 3.txt
+@@ -0,0 +1,4 @@
++Sama tego chciałaś
++Pewnie coś był wart
++Zapłacony ciałem
++Kolorowy slajd
+

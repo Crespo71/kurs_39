@@ -1,0 +1,19 @@
+user@DESKTOP-FEPSNIA MINGW64 ~/trol (master)
+$ git log -p "refren 5.txt"
+commit d02f5531a8ffe5e3c49cbbb3370fadf7cdb0fc1c
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:26:52 2025 +0200
+
+    refren 5
+
+diff --git a/refren 5.txt b/refren 5.txt
+new file mode 100644
+index 0000000..ad9d8c7
+--- /dev/null
++++ b/refren 5.txt
+@@ -0,0 +1,4 @@
++Tańcz, głupia, tańcz!
++Tańcz, głupia, tańcz!
++Tańcz, głupia, tańcz!
++Tańcz, głupia, tańcz!
+

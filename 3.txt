@@ -1,0 +1,19 @@
+user@DESKTOP-FEPSNIA MINGW64 ~/trol (master)
+$ git log -p "refren 3.txt"
+commit 4d024bebc3988858ab3182980ee3738ca8891960
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:25:00 2025 +0200
+
+    refren 3
+
+diff --git a/refren 3.txt b/refren 3.txt
+new file mode 100644
+index 0000000..d8d4106
+--- /dev/null
++++ b/refren 3.txt
+@@ -0,0 +1,4 @@
++Tańcz głupia, tańcz, swoim życiem się baw
++Wprost na spotkanie ognia leć!
++Tańcz, głupia, tańcz, wielki bal sobie spraw
++To wszystko, co dziś możesz mieć!
+\ No newline at end of file

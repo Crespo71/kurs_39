@@ -1,0 +1,19 @@
+user@DESKTOP-FEPSNIA MINGW64 ~/trol (master)
+$ git log -p "zwrotka 1.txt"
+commit 826f7b518b29ca1f3349df4c3982f617ed71ad30
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:19:03 2025 +0200
+
+    zwrotka 1
+
+diff --git a/zwrotka 1.txt b/zwrotka 1.txt
+new file mode 100644
+index 0000000..1ee0691
+--- /dev/null
++++ b/zwrotka 1.txt
+@@ -0,0 +1,4 @@
++U „Maxima” w Gdyni
++Znów Cię widział ktoś
++Sypał zielonymi
++Mahoniowy gość
+

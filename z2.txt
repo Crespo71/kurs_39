@@ -1,0 +1,19 @@
+$ git log -p "zwrotka 2.txt"
+commit f54ddad81fa443480b13c52d89f9a23f705830ef
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:20:35 2025 +0200
+
+    zwrotka 2
+
+diff --git a/zwrotka 2.txt b/zwrotka 2.txt
+new file mode 100644
+index 0000000..c94ccb9
+--- /dev/null
++++ b/zwrotka 2.txt
+@@ -0,0 +1,4 @@
++Boney M. zagrało
++Kelner zgiął się w pół
++Potem odjechało
++Złote BMW
+\ No newline at end of file
+

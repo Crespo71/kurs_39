@@ -1,0 +1,17 @@
+$ git log -p "refren 2.txt"
+commit 43974c4ff278711b9f7441d933d4d1f0cb8782b6
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:23:24 2025 +0200
+
+    refren 2
+
+diff --git a/refren 2.txt b/refren 2.txt
+new file mode 100644
+index 0000000..e409a16
+--- /dev/null
++++ b/refren 2.txt
+@@ -0,0 +1,4 @@
++Tańcz głupia, tańcz, swoim życiem się baw
++Wprost na spotkanie ognia leć!
++Tańcz, głupia, tańcz, wielki bal sobie spraw
++To wszystko, co dziś możesz mieć!

@@ -1,0 +1,18 @@
+user@DESKTOP-FEPSNIA MINGW64 ~/trol (master)
+$ git log -p "zwrotka 4.txt"
+commit 2e962bb7bc1fa2e84cb76c33e28f08a863f27482
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:24:12 2025 +0200
+
+    zwrotka 4
+
+diff --git a/zwrotka 4.txt b/zwrotka 4.txt
+new file mode 100644
+index 0000000..e409a16
+--- /dev/null
++++ b/zwrotka 4.txt
+@@ -0,0 +1,4 @@
++Tańcz głupia, tańcz, swoim życiem się baw
++Wprost na spotkanie ognia leć!
++Tańcz, głupia, tańcz, wielki bal sobie spraw
++To wszystko, co dziś możesz mieć!
