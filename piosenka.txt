@@ -1,44 +1,17 @@
-U „Maxima” w Gdyni
-Znów Cię widział ktoś
-Sypał zielonymi
-Mahoniowy gość
+zwrotka 1.txt
 
-Boney M. zagrało
-Kelner zgiął się w pół
-Potem odjechało
-Złote BMW
+zwrotka 2.txt
 
-Tańcz głupia, tańcz, swoim życiem się baw
-Wprost na spotkanie ognia leć!
-Tańcz, głupia, tańcz, wielki bal sobie spraw
-To wszystko, co dziś możesz mieć!
+refren 1.txt
 
-Sama tego chciałaś
-Pewnie coś był wart
-Zapłacony ciałem
-Kolorowy slajd
+zwrotka 3.txt
 
-Tańcz głupia, tańcz, swoim życiem się baw
-Wprost na spotkanie ognia leć!
-Tańcz, głupia, tańcz, wielki bal sobie spraw
-To wszystko, co dziś możesz mieć!
+refren 2.txt
 
-Czasem, tak dla hecy
-Lubię patrzeć, jak
-Coraz bliżej świecy
-Ruda krąży ćma
+zwrotka 4.txt
 
-Tańcz głupia, tańcz, swoim życiem się baw
-Wprost na spotkanie ognia leć!
-Tańcz, głupia, tańcz, wielki bal sobie spraw
-To wszystko, co dziś możesz mieć!
+refren 3.txt
 
-Tańcz głupia, tańcz, swoim życiem się baw
-Wprost na spotkanie ognia leć!
-Tańcz, głupia, tańcz, wielki bal sobie spraw
-To wszystko, co dziś możesz mieć!
+refen 4.txt
 
-Tańcz, głupia, tańcz!
-Tańcz, głupia, tańcz!
-Tańcz, głupia, tańcz!
-Tańcz, głupia, tańcz!
+refren 5.txt
