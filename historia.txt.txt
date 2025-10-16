@@ -1,6 +1,18 @@
 user@DESKTOP-FEPSNIA MINGW64 ~/trol (master)
 $ git log
-commit 5567ff77c0de3e71cee1a34c855e25324fa8911f (HEAD -> master)
+commit d87777d70f5648f386c07ffcae97107369cfa21a (HEAD -> master)
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:59:41 2025 +0200
+
+    logi i historia
+
+commit 66f91fc4e38a8e309920571e89cb4886bdb73a5b
+Author: Jakub <jakubkropidlowski@wp.pl>
+Date:   Thu Oct 16 13:49:13 2025 +0200
+
+    dodanie historia.txt
+
+commit 5567ff77c0de3e71cee1a34c855e25324fa8911f
 Author: Jakub <jakubkropidlowski@wp.pl>
 Date:   Thu Oct 16 13:40:01 2025 +0200
 
@@ -11,16 +23,3 @@ Author: Jakub <jakubkropidlowski@wp.pl>
 Date:   Thu Oct 16 13:38:56 2025 +0200
 
     linia dodana
-
-commit b30fd3a53d3ddf085c42cb38d24ad6639ab20253
-Author: Jakub <jakubkropidlowski@wp.pl>
-Date:   Thu Oct 16 13:35:52 2025 +0200
-
-    usunieta ostatnia linia refrenu
-
-commit 437fb0d6331ccb564c6ce1906acba660e2d4d901
-Author: Jakub <jakubkropidlowski@wp.pl>
-Date:   Thu Oct 16 13:32:14 2025 +0200
-
-    podmiana tekstu
-
