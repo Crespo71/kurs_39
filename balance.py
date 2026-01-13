@@ -1,20 +1,11 @@
-# def witaj ():
-#     print("=====Witaj w ma"gazynie wybierz funkcje=====\n")
-from operator import truediv
-historia = ["kupiono rolki", "sprzedano segway", "doładowano saldo o 10000"]
-saldo = float(0)
-magazyn = {
-    "rower":             {"cena": 1200, "ilosc": 5},
-    "hulajnoga":         {"cena": 350, "ilosc": 12},
-    "deskorolka":        {"cena": 280, "ilosc":  7},
-    "segway":            {"cena": 3200, "ilosc": 2},
-    "rolki":             {"cena": 190, "ilosc": 18},
-    "deskorolka_elekt.": {"cena": 1600, "ilosc": 3},
-    "bmx":               {"cena": 1500, "ilosc": 4},
-    "rower_elektryczny": {"cena": 5800, "ilosc": 1},
-    "hulajnoga_elektr":  {"cena": 2100, "ilosc": 6},
-    "monocykl":          {"cena": 2600, "ilosc": 2}
-}
+from file_handler import filehandler
+
+dane = filehandler.read_dane()
+historia = dane.get('historia')
+saldo = dane.get('saldo')
+magazyn = dane.get('magazyn')
+
+print(historia)
 
 
 while True:
@@ -123,3 +114,4 @@ while True:
             continue
 
 
+filehandler.write_dane(historia, saldo, magazyn)
